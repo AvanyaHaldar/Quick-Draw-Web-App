@@ -1,0 +1,42 @@
+#score{
+    margin-left: 5px;
+    font-size:25px;
+    font-family: comic sans ms;
+    background-color: cyan;
+}
+#timer{
+    float: right;
+    margin-right: 5px;
+    font-size: 25px;
+    font-family: comic sans ms;
+    background-color: rgb(245, 136, 190);
+}
+h1{
+    background-color: powderblue;
+    color: purple;
+    font-family: algerian;
+    padding: 15px;
+    width: 70%;
+    border-radius: 30px;
+}
+#show_sketch{
+    float:right;
+    padding: 12px;
+    font-size: 15px;
+    font-family: comic sans ms;
+}
+p{
+    font-family: comic sans ms;
+    font-size: 25px;
+    color: black;
+    background-color: yellow;
+    width: 20%;
+}
+#sketch_to_be_drawn{
+    font-family: comic sans ms;
+    background-color:orange;
+    font-size: 25px;
+    color: blue;
+    width: 30%;
+    
+}
